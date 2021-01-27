@@ -9,7 +9,7 @@ def introduction_with_language (name, language)
   puts "Hello, #{name}. we heard you are a great #{language} programmer"
 end 
 
-greeting_programmer("maria", "ruby")
+introduction_with_language("maria", "ruby")
 
 
 
