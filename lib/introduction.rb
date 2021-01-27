@@ -5,7 +5,13 @@
 
 #introduction_with_language
 
+def greeting_programmer (name, language)
+  puts "Hello, #{name}. we heard you are a great #{language} programmer"
+end 
 
+greeting_programmer("maria", "ruby")
+
+greeting_programmer("chris", "python")
 
 
 
