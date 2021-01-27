@@ -6,7 +6,7 @@
 #introduction_with_language
 
 def introduction_with_language (name, language)
-  puts "Hello, #{name}. we heard you are a great #{language} programmer"
+  puts "Hi, my name is #{name} and I am learning to program in #{program}."
 end 
 
 introduction_with_language("maria", "ruby")
